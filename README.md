@@ -1,8 +1,10 @@
 # tp-ransomware-AKO
 
-## Q1
+## Q1. Quelle est le nom de l'algorithme de chiffrement ? Est-il robuste et pourquoi ?
 
-## Q2
+
+
+## Q2. 
 
 ## Q3
 
